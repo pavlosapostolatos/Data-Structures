@@ -6,28 +6,29 @@
 -Navigate to each folder run `make` then run the executable
 
 ## Data Structures provided
-using data abstaction * [x] if the code implements it
+using data abstaction - [x] if the code implements it
 1.  list 
-* Linked List Implementation  * [x]
-    *  Array List Implementation  * [x]
-2. Queues * [x]
-3. Stacks * [x]
-4. Heap * [x]
-5. Binary tree * [x]
-   * Linked List Implementation  * [x]
-   *  Array List Implementation  * [x]
-   * Binary Search Tree * [x]
-   * Complete Binary tree * [x]
-7. Hash Table (Open Addressing or Separate Chaining) * [x]
-8. Graph(abstacting the Hash Table ) * [x]
+* - [x] Linked List Implementation  
+    * - [x] Array List Implementation  
+1. - [x] Queues 
+2. - [x] Stacks 
+3. - [x] Heap 
+4. - [x] Binary tree 
+   * - [x] Linked List Implementation  
+   *  - [x] Array List Implementation 
+   * - [x] Binary Search Tree 
+   * - [x] Complete Binary tree 
+5. - [x] Hash Table (Open Addressing or Separate Chaining)
+6. AVL Tree 
+7. - [x] Graph(abstacting the Hash Table ) 
 
 
 
 * Sorting
   * Comparison Sorting
-  * Bubble Sort * [x]
+  * - [x] Bubble Sort 
   * Selection Sort 
   * Insertion Sort
   * Shell Sort
-  * Merge Sort * [x]
-  * Quck Sort * [x]
+  * - [x] Merge Sort 
+  * - [x] Quck Sort 
