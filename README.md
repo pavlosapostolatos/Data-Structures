@@ -3,7 +3,8 @@
 ## Installation Instructions & Execution Instructions
 
 - gcc or g++ required
--Navigate to each folder run `make` then run the executable
+- Navigate to each folder run `make` then run the executable
+- run on linux
 
 ## Data Structures provided
 using data abstaction - [x] if the code implements it
